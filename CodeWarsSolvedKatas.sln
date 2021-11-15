@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsSolvedKatas", "CodeWarsSolvedKatas\CodeWarsSolvedKatas.csproj", "{0A5665E6-AC1D-44B9-807B-3C4EB0FDDF3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply", "CodeWarsSolvedKatas\Multiply.csproj", "{0A5665E6-AC1D-44B9-807B-3C4EB0FDDF3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8thKyu", "8thKyu", "{6B397108-AFB3-4F9C-818B-E83823C20BEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A5665E6-AC1D-44B9-807B-3C4EB0FDDF3A} = {6B397108-AFB3-4F9C-818B-E83823C20BEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BABCF77E-C5B8-431D-9587-576804C554B9}
