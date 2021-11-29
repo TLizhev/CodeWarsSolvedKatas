@@ -3,61 +3,65 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply", "CodeWarsSolvedKatas\Multiply.csproj", "{0A5665E6-AC1D-44B9-807B-3C4EB0FDDF3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiply", "CodeWarsSolvedKatas\Multiply.csproj", "{0A5665E6-AC1D-44B9-807B-3C4EB0FDDF3A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8thKyu", "8thKyu", "{6B397108-AFB3-4F9C-818B-E83823C20BEA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7thKyu", "7thKyu", "{BDB5B1E0-B1E2-435D-82F1-7D7EA48E00FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaden Casing Strings", "Jaden Casing Strings\Jaden Casing Strings.csproj", "{47F23BC6-C5A2-4D53-BCF8-FD3CDD19B6A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jaden Casing Strings", "Jaden Casing Strings\Jaden Casing Strings.csproj", "{47F23BC6-C5A2-4D53-BCF8-FD3CDD19B6A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of two lowest positive integers", "Sum of two lowest positive integers\Sum of two lowest positive integers.csproj", "{C4B8B54A-4294-409A-81F0-A430C9A8E35B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of two lowest positive integers", "Sum of two lowest positive integers\Sum of two lowest positive integers.csproj", "{C4B8B54A-4294-409A-81F0-A430C9A8E35B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner Series 3 Sum of Numbers", "Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers.csproj", "{13567E87-100C-44BC-840C-8EF32EC84DD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner Series 3 Sum of Numbers", "Beginner Series 3 Sum of Numbers\Beginner Series 3 Sum of Numbers.csproj", "{13567E87-100C-44BC-840C-8EF32EC84DD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mumbling", "Mumbling\Mumbling.csproj", "{0C66604D-A01E-47B0-B402-848F7A27C9F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mumbling", "Mumbling\Mumbling.csproj", "{0C66604D-A01E-47B0-B402-848F7A27C9F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square Every Digit", "Square Every Digit\Square Every Digit.csproj", "{98228692-4C94-4A64-91B4-F56551DCDF79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square Every Digit", "Square Every Digit\Square Every Digit.csproj", "{98228692-4C94-4A64-91B4-F56551DCDF79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You're a square!", "You're a square!\You're a square!.csproj", "{35E3E8F1-6046-4C01-AF4E-18FF09F1F0F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "You're a square!", "You're a square!\You're a square!.csproj", "{35E3E8F1-6046-4C01-AF4E-18FF09F1F0F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of odd numbers", "Sum of odd numbers\Sum of odd numbers.csproj", "{8A645309-12A7-4B0C-B209-8F3E84A21B93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of odd numbers", "Sum of odd numbers\Sum of odd numbers.csproj", "{8A645309-12A7-4B0C-B209-8F3E84A21B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Word", "Shortest Word\Shortest Word.csproj", "{FF60DBD3-AFCE-41AD-847A-E263C1F02DC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest Word", "Shortest Word\Shortest Word.csproj", "{FF60DBD3-AFCE-41AD-847A-E263C1F02DC6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6thKyu", "6thKyu", "{B6B0DA60-07A9-4D9C-8527-AF7CCD67CD3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Who likes it", "Who likes it\Who likes it.csproj", "{7CCC1458-22D8-4E9D-99C4-A71C90A2AC9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Who likes it", "Who likes it\Who likes it.csproj", "{7CCC1458-22D8-4E9D-99C4-A71C90A2AC9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop gninnipS My sdroW!", "Stop gninnipS My sdroW!\Stop gninnipS My sdroW!.csproj", "{0223B826-8612-4C4F-BF4D-B0A5300046C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stop gninnipS My sdroW!", "Stop gninnipS My sdroW!\Stop gninnipS My sdroW!.csproj", "{0223B826-8612-4C4F-BF4D-B0A5300046C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit Counting", "Bit Counting\Bit Counting.csproj", "{63D9B38C-1EC7-4ED4-850F-9F6493A2B437}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit Counting", "Bit Counting\Bit Counting.csproj", "{63D9B38C-1EC7-4ED4-850F-9F6493A2B437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiples of 3 or 5", "Multiples of 3 or 5\Multiples of 3 or 5.csproj", "{F5096551-B704-42E4-87D8-F325716CBA27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiples of 3 or 5", "Multiples of 3 or 5\Multiples of 3 or 5.csproj", "{F5096551-B704-42E4-87D8-F325716CBA27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playing With Digits", "Playing With Digits\Playing With Digits.csproj", "{C0F889CC-D516-445A-B534-324983E0EC9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playing With Digits", "Playing With Digits\Playing With Digits.csproj", "{C0F889CC-D516-445A-B534-324983E0EC9B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5thKyu", "5thKyu", "{84831311-ABD2-4819-9681-860046ADC2C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Where my anagrams at", "Where my anagrams at\Where my anagrams at.csproj", "{2B9959AA-3D2C-4550-8C45-BDF942C13445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Where my anagrams at", "Where my anagrams at\Where my anagrams at.csproj", "{2B9959AA-3D2C-4550-8C45-BDF942C13445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directions Reduction", "Directions Reduction\Directions Reduction.csproj", "{A486979C-B851-49D0-B11B-654CA2278DCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directions Reduction", "Directions Reduction\Directions Reduction.csproj", "{A486979C-B851-49D0-B11B-654CA2278DCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Pig Latin", "Simple Pig Latin\Simple Pig Latin.csproj", "{E53DFA2A-0328-480C-A702-3F9138E1FFD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Pig Latin", "Simple Pig Latin\Simple Pig Latin.csproj", "{E53DFA2A-0328-480C-A702-3F9138E1FFD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving Zeros To The End", "Moving Zeros To The End\Moving Zeros To The End.csproj", "{070365B1-D8CF-4001-B999-7AAE731132E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moving Zeros To The End", "Moving Zeros To The End\Moving Zeros To The End.csproj", "{070365B1-D8CF-4001-B999-7AAE731132E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greed is Good", "Greed is Good\Greed is Good.csproj", "{28E88B58-859B-4EA3-92C7-A0E7827A0781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greed is Good", "Greed is Good\Greed is Good.csproj", "{28E88B58-859B-4EA3-92C7-A0E7827A0781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rot13", "Rot13\Rot13.csproj", "{A047AFDF-7BB5-492C-BCB6-B5105DE1A8FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rot13", "Rot13\Rot13.csproj", "{A047AFDF-7BB5-492C-BCB6-B5105DE1A8FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4thKyu", "4thKyu", "{7589ED87-40F6-42FE-B7DE-65D348D405EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Large Factorials", "Large Factorials\Large Factorials.csproj", "{87728F5B-B196-43F9-AA17-94F42E99A738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Large Factorials", "Large Factorials\Large Factorials.csproj", "{87728F5B-B196-43F9-AA17-94F42E99A738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding Big Numbers", "Adding Big Numbers\Adding Big Numbers.csproj", "{D5EE7E4D-5FB3-4C20-8CCE-3A052CC25A9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adding Big Numbers", "Adding Big Numbers\Adding Big Numbers.csproj", "{D5EE7E4D-5FB3-4C20-8CCE-3A052CC25A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catching Car Mileage Numbers", "Catching Car Mileage Numbers\Catching Car Mileage Numbers.csproj", "{86D3CEB0-A7DD-41F0-8169-E2B23DA920EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catching Car Mileage Numbers", "Catching Car Mileage Numbers\Catching Car Mileage Numbers.csproj", "{86D3CEB0-A7DD-41F0-8169-E2B23DA920EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connect Four", "Connect Four\Connect Four.csproj", "{A1E088D0-A3D4-41D3-9BAC-088B1BD0FAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman Numerals Helper", "Roman Numerals Helper\Roman Numerals Helper.csproj", "{2EF796D9-A209-4B5D-8C55-A7B1381057A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +161,14 @@ Global
 		{86D3CEB0-A7DD-41F0-8169-E2B23DA920EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86D3CEB0-A7DD-41F0-8169-E2B23DA920EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86D3CEB0-A7DD-41F0-8169-E2B23DA920EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E088D0-A3D4-41D3-9BAC-088B1BD0FAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E088D0-A3D4-41D3-9BAC-088B1BD0FAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E088D0-A3D4-41D3-9BAC-088B1BD0FAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E088D0-A3D4-41D3-9BAC-088B1BD0FAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF796D9-A209-4B5D-8C55-A7B1381057A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF796D9-A209-4B5D-8C55-A7B1381057A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF796D9-A209-4B5D-8C55-A7B1381057A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF796D9-A209-4B5D-8C55-A7B1381057A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +197,8 @@ Global
 		{87728F5B-B196-43F9-AA17-94F42E99A738} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 		{D5EE7E4D-5FB3-4C20-8CCE-3A052CC25A9B} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 		{86D3CEB0-A7DD-41F0-8169-E2B23DA920EC} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
+		{A1E088D0-A3D4-41D3-9BAC-088B1BD0FAC1} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
+		{2EF796D9-A209-4B5D-8C55-A7B1381057A6} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BABCF77E-C5B8-431D-9587-576804C554B9}
