@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connect Four", "Connect Fou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman Numerals Helper", "Roman Numerals Helper\Roman Numerals Helper.csproj", "{2EF796D9-A209-4B5D-8C55-A7B1381057A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars style ranking system", "Codewars style ranking system\Codewars style ranking system.csproj", "{5EDAF696-ED06-4CA9-9322-702C5155246C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +171,10 @@ Global
 		{2EF796D9-A209-4B5D-8C55-A7B1381057A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EF796D9-A209-4B5D-8C55-A7B1381057A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EF796D9-A209-4B5D-8C55-A7B1381057A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDAF696-ED06-4CA9-9322-702C5155246C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDAF696-ED06-4CA9-9322-702C5155246C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDAF696-ED06-4CA9-9322-702C5155246C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDAF696-ED06-4CA9-9322-702C5155246C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -199,6 +205,7 @@ Global
 		{86D3CEB0-A7DD-41F0-8169-E2B23DA920EC} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 		{A1E088D0-A3D4-41D3-9BAC-088B1BD0FAC1} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 		{2EF796D9-A209-4B5D-8C55-A7B1381057A6} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
+		{5EDAF696-ED06-4CA9-9322-702C5155246C} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BABCF77E-C5B8-431D-9587-576804C554B9}
