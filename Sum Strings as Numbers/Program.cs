@@ -4,15 +4,7 @@ public static class Kata
 {
     public static string sumStrings(string a, string b)
     {
-        if (a == string.Empty)
-        {
-            return BigInteger.Parse(b).ToString();
-        }
-        if (b == string.Empty)
-        {
-            return BigInteger.Parse(a).ToString();
-        }
-        return (BigInteger.Parse(a) + BigInteger.Parse(b)).ToString();
-
+        return a == string.Empty ? BigInteger.Parse(b).ToString() :
+            b == string.Empty ? BigInteger.Parse(a).ToString() : (BigInteger.Parse(a) + BigInteger.Parse(b)).ToString();
     }
 }
