@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Streaming(PG-13)", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Strings as Numbers", "Sum Strings as Numbers\Sum Strings as Numbers.csproj", "{644DA96A-A02E-4D92-9C15-10AB476439EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the unknown digit", "Find the unknown digit\Find the unknown digit.csproj", "{7216D982-1C90-4AC2-9F90-E513DD7852D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the unknown digit", "Find the unknown digit\Find the unknown digit.csproj", "{7216D982-1C90-4AC2-9F90-E513DD7852D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatest Position Distance Between Matching Array Values", "Greatest Position Distance Between Matching Array Values\Greatest Position Distance Between Matching Array Values.csproj", "{51DBA2F7-EDF6-4F58-8417-98A87607246B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{7216D982-1C90-4AC2-9F90-E513DD7852D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7216D982-1C90-4AC2-9F90-E513DD7852D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7216D982-1C90-4AC2-9F90-E513DD7852D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DBA2F7-EDF6-4F58-8417-98A87607246B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DBA2F7-EDF6-4F58-8417-98A87607246B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DBA2F7-EDF6-4F58-8417-98A87607246B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DBA2F7-EDF6-4F58-8417-98A87607246B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -229,6 +235,7 @@ Global
 		{0C151071-53D3-44E5-8714-41F846FEC434} = {2B6C3FA6-91AF-4582-A50A-8C4BD99CE0D1}
 		{644DA96A-A02E-4D92-9C15-10AB476439EA} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 		{7216D982-1C90-4AC2-9F90-E513DD7852D3} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
+		{51DBA2F7-EDF6-4F58-8417-98A87607246B} = {B6B0DA60-07A9-4D9C-8527-AF7CCD67CD3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BABCF77E-C5B8-431D-9587-576804C554B9}
