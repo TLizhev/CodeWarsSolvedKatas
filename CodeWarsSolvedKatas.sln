@@ -75,6 +75,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the unknown digit", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatest Position Distance Between Matching Array Values", "Greatest Position Distance Between Matching Array Values\Greatest Position Distance Between Matching Array Values.csproj", "{51DBA2F7-EDF6-4F58-8417-98A87607246B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consonant value", "Chaser's schedule\Consonant value.csproj", "{970008A5-4B6F-417B-8257-602C11212CF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{51DBA2F7-EDF6-4F58-8417-98A87607246B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51DBA2F7-EDF6-4F58-8417-98A87607246B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51DBA2F7-EDF6-4F58-8417-98A87607246B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970008A5-4B6F-417B-8257-602C11212CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970008A5-4B6F-417B-8257-602C11212CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970008A5-4B6F-417B-8257-602C11212CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970008A5-4B6F-417B-8257-602C11212CF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -236,6 +242,7 @@ Global
 		{644DA96A-A02E-4D92-9C15-10AB476439EA} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 		{7216D982-1C90-4AC2-9F90-E513DD7852D3} = {7589ED87-40F6-42FE-B7DE-65D348D405EF}
 		{51DBA2F7-EDF6-4F58-8417-98A87607246B} = {B6B0DA60-07A9-4D9C-8527-AF7CCD67CD3A}
+		{970008A5-4B6F-417B-8257-602C11212CF6} = {B6B0DA60-07A9-4D9C-8527-AF7CCD67CD3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BABCF77E-C5B8-431D-9587-576804C554B9}
